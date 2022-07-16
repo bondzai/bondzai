@@ -1,5 +1,4 @@
-- 📫 I’m Puritat Chamart
-- 📫 I’m a problem solver.
+- 📫 I’m Puritat Chamart, Just nobody here in this big space.
 - 📫 I'm from Ubonratchatani, Thailand.✨
 
 ##### Sharpen the mind, Simplify the code. #####
