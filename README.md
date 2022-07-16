@@ -1,6 +1,6 @@
 - 📫 I’m Puritat Chamart
 - 📫 I’m a problem solver.
-- 📫 I'm from Ubonratchatani, Thailand & I'm a figther.🌱
+- 📫 I'm from Ubonratchatani, Thailand.
 
 <!---
 introbond/introbond is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
