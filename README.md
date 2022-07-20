@@ -1,13 +1,13 @@
 I'm just nobody here in this big space.
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=introbond&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=introbond&layout=compact)](https://github.com/introbond/github-readme-stats)
+<table>
+  <tr>
+    <th><img height="170em" src="https://github-readme-stats.vercel.app/api?username=introbond&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /></th>
+    <th><img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=introbond&layout=compact" /></th>
+  </tr>
+</table>
 <!--START_SECTION:waka-->
-
-```text
-No activity tracked
-```
-
 <!--END_SECTION:waka-->
+
+
 
 "Every warrior has a beginning. The journey from here is yours to decide."  -Blind Master
