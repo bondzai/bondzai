@@ -7,6 +7,11 @@ I'm just nobody here in this big space.
 </table>
 
 <!--START_SECTION:waka-->
+
+```text
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 "Every warrior has a beginning. The journey from here is yours to decide."  -Blind Master
