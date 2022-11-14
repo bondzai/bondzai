@@ -11,12 +11,12 @@ I'm just nobody here in this big space.
 <!--START_SECTION:waka-->
 
 ```text
-From: 11 October 2022 - To: 10 November 2022
+From: 18 July 2022 - To: 12 November 2022
 
-Total Time: 197 hrs 40 mins
+Total Time: 258 hrs 11 mins
 
-JavaScript     99 hrs 37 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   50.40 %
-Other          55 hrs 58 mins  ⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   28.31 %
+JavaScript     134 hrs 25 mins █████████████░░░░░░░░░░░░   52.07 %
+Other          70 hrs 22 mins  ██████▓░░░░░░░░░░░░░░░░░░   27.26 %
 ```
 
 <!--END_SECTION:waka-->
