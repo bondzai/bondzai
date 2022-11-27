@@ -20,5 +20,3 @@ Other            70 hrs 32 mins  ██████▒░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
-
-"Every warrior has a beginning. The journey from here is yours to decide."  -Blind Master
