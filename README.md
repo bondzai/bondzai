@@ -11,7 +11,7 @@ I'm just nobody here in this big space.
 <!--START_SECTION:waka-->
 
 ```text
-From: 18 July 2022 - To: 23 December 2022
+From: 18 July 2022 - To: 24 December 2022
 
 Total Time: 347 hrs 1 min
 
