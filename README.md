@@ -4,12 +4,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 18 July 2022 - To: 28 January 2023
+From: 18 July 2022 - To: 29 January 2023
 
-Total Time: 488 hrs 10 mins
+Total Time: 501 hrs 55 mins
 
-JavaScript         168 hrs 13 mins ████████▓░░░░░░░░░░░░░░░░   34.46 %
-Other              128 hrs 45 mins ██████▓░░░░░░░░░░░░░░░░░░   26.38 %
+JavaScript         170 hrs 30 mins ████████▒░░░░░░░░░░░░░░░░   33.97 %
+Other              138 hrs 45 mins ███████░░░░░░░░░░░░░░░░░░   27.65 %
 ```
 
 <!--END_SECTION:waka-->
