@@ -4,13 +4,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 18 July 2022 - To: 22 April 2023
+From: 18 July 2022 - To: 23 April 2023
 
-Total Time: 778 hrs 25 mins
+Total Time: 788 hrs 35 mins
 
-JavaScript         249 hrs 29 mins ████████░░░░░░░░░░░░░░░░░   32.05 %
-Python             190 hrs 49 mins ██████░░░░░░░░░░░░░░░░░░░   24.51 %
-Other              172 hrs 45 mins █████▓░░░░░░░░░░░░░░░░░░░   22.19 %
+JavaScript         258 hrs 36 mins ████████▒░░░░░░░░░░░░░░░░   32.79 %
+Python             190 hrs 49 mins ██████░░░░░░░░░░░░░░░░░░░   24.20 %
+Other              172 hrs 46 mins █████▒░░░░░░░░░░░░░░░░░░░   21.91 %
 ```
 
 <!--END_SECTION:waka-->
