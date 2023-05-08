@@ -1,5 +1,6 @@
-- My name is James Bond. I am just nobody here in this digital space, passionate about GNU/Linux, infrastructure, networks & protocols. 
-Let's dive deep & enjoy with beautiful things that happen in the backend world.
+- My name is James Bond. I'm just nobody here in this digital space. 
+- I'm passionate about GNU/Linux, infrastructure, networks & protocols. 
+- Let's dive deep & enjoy with beautiful things that happen in the backend world.
 
 
 <!--START_SECTION:waka-->
