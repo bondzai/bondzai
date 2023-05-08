@@ -1,4 +1,4 @@
-- I'm just nobody here in this big space.
+- I am just nobody here in this space, passionate about backend stuff like GNU/Linux, infrastructure networks & protocols. Let's dive deep & enjoy how beautiful things happen in the backend world.
 
 
 <!--START_SECTION:waka-->
