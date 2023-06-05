@@ -1,5 +1,5 @@
 - My name is James Bond. I'm just nobody here in this digital space. 
-- I'm passionate about GNU/Linux, IaC, networks & protocols. 
+- I'm passionate about DevSecOps & Backend stuff such as GNU/Linux, IaC, security, networking & communication protocols. 
 - Let's dive deep & enjoy with beautiful things that happen in the backend world.
 
 
