@@ -1,4 +1,3 @@
-Greetings, digital voyagers. 
 ## "Greetings, digital voyagers."
 
 - My name is James Bond. I'm just nobody here in this digital space. 
