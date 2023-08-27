@@ -1,7 +1,7 @@
 - My name is James Bond. I'm just nobody here in this digital space. 
 - Let's dive deep & enjoy with beautiful things that happen in the backend world.
 
-## "Show Me the Code" - Linus Torvalds\
+## "Show Me the Code" - Linus Torvalds
 In the immortal words of Linus Torvalds, *"Talk is cheap. Show me the code."* So here's my ode to that sentiment, a snippet of my journey etched in digital ink:
 
 <!--START_SECTION:waka-->
