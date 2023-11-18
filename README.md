@@ -1,6 +1,3 @@
-## "Show Me the Code." - Linus Torvalds
-In the immortal words of Linus Torvalds, *"Talk is cheap. Show me the code."* So here's my ode to that sentiment, a snippet of my journey etched in digital ink:
-
 <!--START_SECTION:waka-->
 
 ```txt
@@ -16,3 +13,5 @@ sh                         89 hrs 27 mins  ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ```
 
 <!--END_SECTION:waka-->
+
+*"Mistakes. We all make them."*
