@@ -13,5 +13,3 @@ sh                         89 hrs 27 mins  ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ```
 
 <!--END_SECTION:waka-->
-
-*"Mistakes. We all make them."*
