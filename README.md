@@ -22,6 +22,7 @@ CAmount GetBlockSubsidy(int nHeight, const Consensus::Params& consensusParams)
         return 0;
 
     CAmount nSubsidy = 50 * COIN;
+
     nSubsidy >>= halvings;
 
     return nSubsidy;
