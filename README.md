@@ -1,3 +1,4 @@
+> I build in the shadows. No degree. No bootcamp. Just bytes, and belief.
 <!--START_SECTION:waka-->
 
 ```txt
