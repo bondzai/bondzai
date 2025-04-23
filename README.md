@@ -1,4 +1,4 @@
-> I build in the shadows. No degree. No bootcamp. Just bytes, and belief.
+> "Talk is cheap. Show me the code." – Linus Torvalds
 <!--START_SECTION:waka-->
 
 ```txt
