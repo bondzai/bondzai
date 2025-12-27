@@ -6,7 +6,7 @@ Just bytes and belief.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 July 2022 - To: 25 December 2025
+From: 18 July 2022 - To: 26 December 2025
 
 Total Time: 5,378 hrs 11 mins
 
